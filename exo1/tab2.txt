@@ -1,0 +1,4 @@
+Name;MM;fire_Ball;iceArrow;tornado;light;lame;Explotion
+Index;1;2;3;4;5;6;7
+Dmg;10;30;20;50;1;130;99
+temp;30;33;17;60;50;105;83
